@@ -21,7 +21,7 @@ Leveraging a marketing background to fuel my journey as an aspiring Full-Stack D
 ### Extra Stuff
 
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
-![SEO](https://img.shields.io/badge/-SEO-333?style=flat-square&logo=globe)
+![SEO](https://img.shields.io/badge/-SEO-333?style=flat-square&logo=google)
 
 ### Related Education
 
