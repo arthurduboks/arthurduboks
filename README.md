@@ -8,14 +8,15 @@ Leveraging a marketing background to fuel my journey as an aspiring Full-Stack D
 
 ### Tech Stack
 
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
-![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
+![Node JS](https://img.shields.io/badge/-Node%20JS-333?style=flat-square&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=sqlite)
+![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-333?style=flat-square&logo=mongodb)
 
 ### Extra Stuff
 
