@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.tenor.com/3hLApZ6BdD8AAAAi/doge.gif" width="30" align="top">
 
-Leveraging a marketing background to fuel my journey as an aspiring Full-Stack Developer 💻.
+Leveraging a marketing background to fuel my journey as Full-Stack Developer 💻.
 
 🌎 **[LinkedIn](https://www.linkedin.com/in/arthur-duboks/)**
 
