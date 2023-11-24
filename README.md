@@ -13,10 +13,13 @@ Leveraging a marketing background to fuel my journey as Full-Stack Developer ðŸ’
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat-square&logo=bootstrap)<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![Node JS](https://img.shields.io/badge/-Node%20JS-333?style=flat-square&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=sqlite)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node%20JS-333?style=flat-square&logo=node.js)
+![mySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-333?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat-square&logo=firebase)
 
 ### Extra Stuff
 
