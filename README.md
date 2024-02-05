@@ -17,7 +17,8 @@ Leveraging solid marketing background to fuel my journey as Full-Stack Developer
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node%20JS-333?style=flat-square&logo=node.js)
-![mySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-333?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat-square&logo=firebase)
 
